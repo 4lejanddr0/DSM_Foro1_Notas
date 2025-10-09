@@ -51,4 +51,5 @@ Sesión
 - Consuelo Astrid Landa Hernandez LH201536
 - Arturo Jose Gomez Henriquez GH191748
 
-- LINK video de explicacion del proyecto: 
+
+LINK video de explicacion del proyecto: 
