@@ -12,7 +12,7 @@ Las notas permanecen activas solo mientras la app está abierta.
 - Gradle Wrapper incluido (no requiere instalación adicion
 
 ⚙️ Ejecución
-Opción A – Android Studio (recomendada)
+Android Studio
 
 1- Clonar el repositorio:
 
