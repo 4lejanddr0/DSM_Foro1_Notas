@@ -52,4 +52,4 @@ Sesión
 - Arturo Jose Gomez Henriquez GH191748
 
 
-LINK video de explicacion del proyecto: 
+LINK video de explicacion del proyecto: https://youtu.be/eMWL6CDFe24
